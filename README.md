@@ -20,8 +20,7 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [@mostafaa_shirii:](https://twitter.com/mostafaa_shirii/status/1371940554905427972)
-- [@mostafaa_shirii: Finally, I defended my thesis for a master's degree after two years of hard-working.There were many obstacles and difficulties in front of me and the pandemic made the conditions harder, but by striving and the help of my supervisors, I did it appropriately. I am so happy.🤓🤩](https://twitter.com/mostafaa_shirii/status/1371940425829859329)
+- [[Action required] Your RSS.app Trial has Expired - Sun Apr 25 2021](https://rss.app)
 <!-- TWITTER:END -->
 
 <br/>
