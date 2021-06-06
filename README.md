@@ -20,7 +20,7 @@
 ## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Jun 05 2021](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun Jun 06 2021](https://rss.app)
 <!-- TWITTER:END -->
 
 <br/>
