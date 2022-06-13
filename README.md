@@ -1,6 +1,6 @@
-### Hi there, I'm Mostafa Shiri - aka [Mosi][website] 👋
+### Hi there, I'm Mostafa Shiri 👋
 
-## I'm a RL enthusiast
+## I'm a Data Analyst
 
 - I’m currently data analyst 🤖 
 
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -51,4 +51,4 @@
 [website]:  https://twitter.com/mostafaa_shirii
 [twitter]: https://twitter.com/mostafaa_shirii
 [instagram]: https://www.instagram.com/Mostaf_shiri/
-[linkedin]: https://www.linkedin.com/in/mostafa-shiri-1055a9209
+[linkedin]: [https://www.linkedin.com/in/mostafa-shiri-1055a9209](https://www.linkedin.com/in/shirii-mostafaa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByYeryDcNRuKZ2PpaN22B1w%3D%3D)
