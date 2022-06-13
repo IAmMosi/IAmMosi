@@ -2,10 +2,9 @@
 
 ## I'm a RL enthusiast
 
-- I’m currently learning everything about RL 🤖 
-- 2021 Goals: Contribute more to Open Source projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Fun fact: I love to inven(s)t
-- Long-term Goal: Become a master in RL
+- I’m currently data analyst 🤖 
+
+- Long-term Goal: Become a master in Data Science
 
 ### Connect with me:
 
