@@ -16,23 +16,11 @@
 <br />
 <br/>
 
-## Latest Tweets <img src="https://media.giphy.com/media/26BRxIdjE82KNmVJm/giphy.gif" width="30"> 
-
-<!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- TWITTER:END -->
-
-<br/>
-
- 
-
-<br/>
 
 
 
 
 
-[website]:  https://twitter.com/mostafaa_shirii
 [twitter]: https://twitter.com/mostafaa_shirii
 [instagram]: https://www.instagram.com/Mostaf_shiri/
 [linkedin]: https://www.linkedin.com/in/shirii-mostafaa/
