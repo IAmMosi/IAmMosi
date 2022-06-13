@@ -30,21 +30,6 @@
 
 
 
-<details>
-  <summary>:zap:Programming Languages</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmMosi](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Mosi" src="https://github-readme-stats.codestackr.vercel.app/api?username=IAmMosi&theme=vue&show_icons=true&hide_border=true" />
-
-</details>
-
-
 
 
 [website]:  https://twitter.com/mostafaa_shirii
