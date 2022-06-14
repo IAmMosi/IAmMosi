@@ -2,7 +2,6 @@
 
 ## I'm a Data Analyst
 
-- I’m currently data analyst 🤖 
 
 - Long-term Goal: Become a master in Data Science
 
