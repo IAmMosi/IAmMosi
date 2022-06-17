@@ -17,7 +17,7 @@
 <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-FF3621?style=flat-square&logo=Pytorch&logoColor=white" />
 <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" />
 
-  https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
+ 
 <p>
 <h3>Softwares I work with</h3>
 <p>
