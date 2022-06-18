@@ -5,13 +5,14 @@
 
 <h3>Things I code with</h3>
 <p>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
 <img alt="Elastic Search" src="https://img.shields.io/badge/Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)" />
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-090020?style=flat-square&logo=numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-003545?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-FF3621?style=flat-square&logo=Pytorch&logoColor=white" />
@@ -25,7 +26,7 @@
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" />
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Latex" src="https://img.shields.io/badge/Latex-F22F46?style=flat-square&logo=latex&logoColor=white" />
+<img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
 
 <p>
   <h3>Platforms for management</h3>
